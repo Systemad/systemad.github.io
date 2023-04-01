@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://systemad.github.io/sitemap.xml
